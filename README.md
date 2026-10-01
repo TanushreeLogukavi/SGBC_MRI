@@ -40,8 +40,6 @@ This repository provides four standalone, mathematically principled pipelines de
 ├── dti_pip2.py                                       # Pipeline B: DIPY Biophysical Multi-Compartment Paradigm
 ├── dti_pip3.py                                       # Pipeline C: DSI Studio Model-Free Source Prep Paradigm
 ├── dti_pip4.py                                       # Pipeline D: Consortium High-Res Hybrid Paradigm (RECOMMENDED)
-├── DTI SOP.docx                                      # Formal Standard Operating Procedure (Word format)
-├── DTI Pipeline Benchmarking & Decision Framework.docx # Multi-pipeline benchmark tournament & decision metrics
 └── README.md                                         # Repository documentation
 ```
 
@@ -187,3 +185,5 @@ If you use these pipelines or the associated SOP protocols in your research, ple
 
 ### License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+### Created by Tanushree L for enquiries contact tanushreelogukavi@gmail.com
