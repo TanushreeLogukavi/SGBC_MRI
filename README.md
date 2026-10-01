@@ -1,4 +1,4 @@
-# Ex Vivo Fetal Diffusion Tensor Imaging (DTI) Preprocessing Suite
+# Ex Vivo Fetal Diffusion Tensor Imaging (DTI) Preprocessing Pipeline
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![DIPY](https://img.shields.io/badge/DIPY-1.12.1-brightgreen.svg)](https://dipy.org/)
