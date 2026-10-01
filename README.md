@@ -186,4 +186,4 @@ If you use these pipelines or the associated SOP protocols in your research, ple
 ### License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-### Created by Tanushree L for enquiries contact tanushreelogukavi@gmail.com
+### $Created by Tanushree L for enquiries contact tanushreelogukavi@gmail.com$
